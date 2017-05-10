@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>turn,shift,louvers,cube_over,tv,lines,bubbles,dribbles,glass_parallax,seven,blur,book,rotate,blast,basic,fly</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen1.jpg</url>
+                <title>imagen1</title>
+                <filesize>90398</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen2.jpg</url>
+                <title>imagen2</title>
+                <filesize>136657</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen3.jpg</url>
+                <title>imagen3</title>
+                <filesize>40603</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen4.jpg</url>
+                <title>imagen4</title>
+                <filesize>104059</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen5.jpg</url>
+                <title>imagen5</title>
+                <filesize>27682</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen6.png</url>
+                <title>imagen6</title>
+                <filesize>1997348</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen7.jpg</url>
+                <title>imagen7</title>
+                <filesize>103280</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen8.jpg</url>
+                <title>imagen8</title>
+                <filesize>27367</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen9.jpg</url>
+                <title>imagen9</title>
+                <filesize>391421</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/imagen10.jpg</url>
+                <title>imagen10</title>
+                <filesize>65410</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
